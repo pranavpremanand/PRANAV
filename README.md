@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=pranavpremanand&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 <!-- --- -->
 
 <!-- ## 🌐 Socials: -->
