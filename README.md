@@ -1,7 +1,7 @@
 ### Hi, Pranav - Full Stack Developer 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
-[![codecrafters](https://img.shields.io/badge/-codecrafters-blue?style=flat&logo=codecrafters&logoColor=#171920&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
+[![codecrafters](https://img.shields.io/badge/-codecrafters-blue?style=flat&logo=codecrafters&logoColor=171920&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
 
 I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. I'm a **doctor in Applied Maths** and currently a **Data Scientist**.
