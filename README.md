@@ -1,5 +1,8 @@
-<!-- ## 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js<br>💬 Ask me about<br>⚡ Fun fact -->
+<h2 align="center">Hey there 👋! My name is Pranav, from Kerala, India</h2>
+
+## 💫 About Me:
+🔭 I’m working as Full Stack Developer
+<!-- <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js<br>💬 Ask me about<br>⚡ Fun fact-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavpremanand) 
