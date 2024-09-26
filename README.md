@@ -4,10 +4,14 @@
 🔭 I’m working as Full Stack Developer -->
 <!-- <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js<br>💬 Ask me about<br>⚡ Fun fact-->
 
+
+[![](https://visitcount.itsvg.in/api?id=pranavpremanand&icon=8&color=0)](https://visitcount.itsvg.in)
+
 <!-- ## 🌐 Socials: -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavpremanand) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pranavpremanand) 
 
+---
 
 ## 🧑‍💻 Tech Stack:
 ### 💻 Frontend:
@@ -53,9 +57,6 @@
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranavpremanand&limit=5&theme=react&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=pranavpremanand&icon=8&color=0)](https://visitcount.itsvg.in)
 
  <!-- ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pranavpremanand) -->
