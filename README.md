@@ -1,7 +1,7 @@
 <h2 align="center">Hey there 👋! My name is Pranav, from Kerala, India</h2>
 
-## 💫 About Me:
-🔭 I’m working as Full Stack Developer
+<!-- ## 💫 About Me:
+🔭 I’m working as Full Stack Developer -->
 <!-- <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Next.js<br>💬 Ask me about<br>⚡ Fun fact-->
 
 ## 🌐 Socials:
@@ -10,13 +10,13 @@
 
 ## 💻 Skills:
 ### 💻 Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) -->
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg&logo=css3&logoColor=white) 
+<!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg&logo=react&logoColor=%2361DAFB) -->
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
