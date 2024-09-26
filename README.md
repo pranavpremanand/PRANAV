@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋! My name is Pranav, from Kerala, India</h2>
+<h2 align="center">Hey there 👋!</h2>
 
 <!-- ## 💫 About Me:
 🔭 I’m working as Full Stack Developer -->
