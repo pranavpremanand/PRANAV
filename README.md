@@ -1,104 +1,25 @@
-### Hi, Pranav - Full Stack Developer 👋
+### Hello World 🐱‍💻 
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjean-jacques10/)](https://www.linkedin.com/in/jjean-jacques10/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/jjeanjacques10/)](https://github.com/jjeanjacques10/) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A?view_as=subscriber)](https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A?view_as=subscriber) [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://jjeanjacques10.medium.com)](https://jjeanjacques10.medium.com) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/jjean_dev) ![](https://komarev.com/ghpvc/?username=jjeanjacques10)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
-<a href="https://discord.gg/HjJCwm5">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord&logoColor=white"
-            alt="Chat on Discord"></a>
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
+<img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. I'm a **doctor in Applied Maths** and currently a **Data Scientist**.
+<p align="left"> 
+Hi, my name is Jean Jacques Barros! I like to share knowledge and solve problems and in my perspective, technology is a means to achieve these goals. I currently work as a Software Engineer in a Brazilian Bank. I've been dedicating my time to creating content about IT on my Blog/GitHub and learning about Microservices, Java Spring, and Cloud Technologies. <br> <br>
 
-- 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
-- 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
-- 📚 My notes of learning at [dinhanhthi.com](http://dinhanhthi.com/).
-- 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://dinhanhthi.com/reading/) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
-- 💌 Contact me at [me@dinhanhthi.com](mailto:me@dinhanhthi.com).
+💻 Software Engineer at [Itaú Unibanco](https://www.itau.com.br/)<br>
+📚 Studying Spring Framework, Microservices, Clean Code, AWS and Python<br>
+📄 [AWS](https://www.credly.com/badges/410c0c66-2cc3-4da9-b447-408e37ba69f7/public_url) and [Azure](https://www.credly.com/badges/3bf6bae3-7368-47a5-816c-c34d75dc4ba6?source=linked_in_profile) Certified<br> 
+👨‍💻 Graduated in Information Systems at [FIAP](https://www.fiap.com.br/)<br>
+🐱‍💻 3 years as a [Gold Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/3841)<br>
+</p>
 
-Technologies I've been learning and using so far (alphabetical order) :
-
-- Programming languages : <br />
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-<br />
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=CodeIgniter)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-<br />
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity3D&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518)
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
-
-    [![FreeFEM++](http://img.shields.io/badge/-FreeFEM++-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA81BMVEUAAP8AAAAAAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP/////77TmdAAAAT3RSTlMAAAUXGEvS1MgtguAdA6jAZ2il0LZqZGVVEsl9DRP+zyrk+r/ZuNjaikz27anGr/EQFgt21lrma2KjtwZ83+VhzZABsFheGlYrIlfHLBUCC7TStQAAAJ1JREFUeNolxwVihFAMRdE3LlDF3R3qRt29zf53MwTul+QA48mUm4wxGo2A2XzBLVcD19QniOC2tmlnd29fkhVV1XQYJlm2I5NLXR78IIziRKAgjeMsR1FWdXNwWBZHx9PpCU7pTByfuxeXVz66Wrq+wS3d3dMDRiM80hOeW3p5fXtnfmifsBuyADC5r4C+GR35rcyf314Dx5O//4EbrkgVZpD8mJYAAAAASUVORK5CYII=&logoColor=CC342D)](https://dinhanhthi.com/notes)
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://dinhanhthi.com/notes/#javascript)
-    [![Matlab](http://img.shields.io/badge/-Matlab-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAB4FBMVEUAAABEUFBEKSliKB+uKg+pJQ9EgoJEior4ew+lJA9Enp5E7OxEenqsJg+kJA9EUVFEpKRERkawJw+qJQ9t185ttq1rx75iycIAAA+oJQ9t3NNt1s2rJg+vJw9tzcRr0sptv7Ztx75uuK9xfXDzdQ/EOw9bFA/faQ///w/4gA/2ew+yKA+xJw/CUQ/73Q/i1g/6ig/qcQ+tJg9Tb2qWQB+5Kwo7k5ddWU3CQA9Dl5dCgILJSQ+hFg9Efn5EhYVGYGDRUA+sIg9DmZlEhYVDY2OwJw9v1ctpsahMW1q1Kw+pIw9t3NNt2dBtzsVtvLO7MQ+sJQ9t2M9t0smvJg93FA9t0sltyL9tv7Vqsqn3dQ/NRQ+yKQ+qJQ9svLNdqqRbKiXvdA/8fA/LQQ+zKQ+uJg+KHgquQQ/lbg/rcQ+xJg+vJg/2pA/7lg/0fA+pJQ//6Q//6w//yA/MdBBuPirnkg2ELRLwjg9RLiyXMA7zhA/bWA9ENTVFMzJjGhOkOA/yfA/kYQ9mkYpNREJOIB53Gw6vQA/xdw/saQ9tyL9tuK9rpZ1TVFFiFhCIIw+6SA/vdA/zcA/EOw9XdHBaHhl6Gw6bMA/HUw/wdA94Gw6VLA+1RQ/WYA/MWg/cZw/8sA/////ZsN0CAAAAcnRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnxiEh1HwGl9EXGoT4+VA90P6YDErS1hkjZr71+U+A9JkBCWLh/uzj2yczWrHIOyGTciri1zANTpLiRQFFzE1molHMAAAAe0lEQVQI1zXHq4oCAQAF0HvKBovFtEEmWVQUhAEVBB/NZPBvxSDswxHfX7BfscFimtOOJAmGXL0kST4MTL9v/iVp0Df2407SpEepcqeFLiOcnnzW4ehhrZ5fZxul2oEtJnVomzHGFyiwUKrsrEg6LEcXOywk6Zuz56/IGyJAGp/iP+53AAAAAElFTkSuQmCC&logoColor=4951aa)](https://dinhanhthi.com/notes)
-    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://dinhanhthi.com/notes/#web-dev)
-    [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)](https://dinhanhthi.com/notes/#python)
-    [![TypeScript](http://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)](https://dinhanhthi.com/notes/#web-dev)
-- Machine Learning / Deep Learning frameworks : <br />
-    [![Dialogflow](http://img.shields.io/badge/-Dialogflow-eee?style=flat-square&logo=dialogflow&logoColor=FF9800)](https://dinhanhthi.com/google-dialogflow-api/)
-    [![Hugging Face API](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-eee?style=flat-square&logo=🤗&logoColor=FFD21E)](https://dinhanhthi.com/notes/#api-&-services)
-    [![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626)](https://dinhanhthi.com/jupyter-notebook)
-    [![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-eee?style=flat-square&logo=openai&logoColor=412991)](https://dinhanhthi.com/notes/#api-&-services)
-    [![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)](https://dinhanhthi.com/notes)
-    [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)](https://dinhanhthi.com/notes/#machine_learning)
-    [![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)](https://dinhanhthi.com/tags/tensorflow/)
-    [![Vertex AI](http://img.shields.io/badge/-Vertex%20AI-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAB4FBMVEWuzPqvzPpBh/RCh/SUu/lTkvWuy/pDiPSty/oMZfGox/qwzPppoPZlnfagwvlmnvZknfYAAACoyPoAAM9lnvZnnvZknPZon/ZNjvVfmfauzPqvzPqvzPpBh/RBhvRBh/SvzPqvzPqvzPqvzPqvzPpBh/RBh/RCh/RBh/RCh/SuzPqvzPqvzPqvzPqvzPpBh/RBh/RBhvRAhvRBh/Suy/qvzPquzPquzPqxzfpim/ZnnvZAhvRBh/RAhvRAhvRBh/Suy/qvzPquzPqvzPqyzvpinPZnn/ZAhvRAhvRBh/Suy/qvzPquzPqvzPqxzvpinPZnnvZAhvRAhvRBh/RBhvSuy/quzPquzPqvzPqwzfpfmvZnnvZAhvRBh/RCh/RBh/RBhvSuy/qvzPqvzPquzPq0z/pknfZmnvZBh/RBh/RBh/RAhvRKjPWvzPqvzPqsyvqyzvpknfZnnvZBh/RAhvRHivRnn/ZlnfavzPqvzPqvzPquzPq50vtknfZmnvYxfPNMjvVlnvZmnvZmnvZknfauzPqvzPqvzPpon/ZnnvZmnvZmnvZmnvZmnvauy/qvzPquzPqBr/hOj/VlnfZmnvZlnvaUu/lXlfVEifRYlfV4qfcEYPFAhvRBh/Q7g/T///9yZuyrAAAAn3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHNRmKFA3HUhMRChwSYw0Gey9qUDKBKrUeBXQrTjkvQiRfLcciA1whVz4+VU/CHQaAMHZWSGQ7liGIBGUmo3kxRyVlF2oOCV0iUzpvlydmFmQThWkFS2qRMYAGThZR0J06EDNICTOD120GKq/ESGEqsMQ/Dn7WgG/PmhtWraF2BQZ1hhO7dWI4AAAAgklEQVQIHQXBMWoCURQAwDe7z2X5a6HYaWfO4AGEVDlMDrBNCmvP4Sk8ipVaSggiCCI/M2LJNYK64pI61k6xhshaoFWgZldgA0TGFMD9JqMAGM6RMQCwPWQzBUDj64PaAH8z5RsA9O3I8RP80Hf3PWD0NvdbFzsYeWXU2SMnGCOf8Q8xbBqBnhLKOwAAAABJRU5ErkJggg==&logoColor=FF9800)](https://dinhanhthi.com/google-vertex-ai/)
-- Frontend : <br />
-    [![11ty](http://img.shields.io/badge/-11ty-eee?style=flat-square&logo=eleventy&logoColor=000)](https://dinhanhthi.com/11ty-nunjucks)
-    [![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat-square&logo=angular&logoColor=DD0031)](https://dinhanhthi.com/tags/angular/)
-    [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://dinhanhthi.com/notes/#web-dev)
-    [![Gatsby](https://img.shields.io/badge/-Gabtsy-eee?style=flat-square&logo=Gatsby&logoColor=663399)](https://dinhanhthi.com/tags/gatsbyjs/)
-    [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://dinhanhthi.com/notes/#web-dev)
-    [![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=flat-square&logo=jekyll&logoColor=a83232)](https://dinhanhthi.com/tags/jekyll/)
-    [![Next.js](http://img.shields.io/badge/-Next.js-eee?style=flat-square&logo=next.js&logoColor=000)](https://dinhanhthi.com/tags/next.js/)
-    [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://dinhanhthi.com/notes)
-    [![RxJS](https://img.shields.io/badge/-RxJS-eee?style=flat-square&logo=reactivex&logoColor=B7178C)](https://dinhanhthi.com/notes/#web-dev)
-    [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://dinhanhthi.com/notes/#web-dev)
-    [![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-eee?style=flat-square&logo=tailwind-css&logoColor=06B6D4)](https://dinhanhthi.com/notes/#web-dev)
-    [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)](https://dinhanhthi.com/tags/wordpress/)
-- Backend : <br />
-    [![Airflow](https://img.shields.io/badge/-Airflow-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAACAVBMVEXoPibmXEHuYkYAxtMAx9TwTTP/Sx3hOCCXjIDiOCHhNx8InPAAxv9hdaQGkuoEkPgCgvEBydYG0+AQyNQJzLEd8v8Mz9wAqkUAq0UCsIYArEUBeeoE5SUCvk4BeuoBeusCv08Cuk0AsEfgOCDjOSHjOSHjOSHiOSHhOCHfOCAAx9MAxdLfOCDjOSHkOSHjOSHjOyMAxtMAx9QAxtPeNyDjOSHkOSHnQin3aU0Ax9UAx9QAxtPiNBviOSHaPyv8bVDdgGcAx9QAx9QAxtMgqug7m8+/incIxNAAxdIKqPgKrf0Ax9QAxdEBfewCg/AAxtMAws4BeekBfO0CytcBxdIBe+sBfO4P3esO2eYBe+wBgOcDw3gN1MUP2dgBe+0BfO4Be+0EzWUD0FYBr0sArEUAp0IBfO0BfO4Be+0BdukDylQAskgArUYArEYAqUQBe+0Be+wBeOYArUYArUYArUYArUYArUYBeuoBeegAq0UArEUArEYArEYArEYArEYArEXkOSHlOSAAx9TkOCDoQimcY2vqRSz/cFEHtP8hquqxVlX2UDTjfmVOrq4Ax9UCg/ADhvECk/pJgK+ffnE4trkBfO4Be+4BlMcIrXoOw7AE1OMDzNkCy9gCnbgEz2QBvkkEunAP3N8Q4O8E1FUBtEkArEYGvn4AskgArUYArUX///+CCWXoAAAAgHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAInj2sKaWxYYiBOY+MM9EKDbDZP93UQOm9ALjfvfU5X+t1j09PyOS+T1UUPiuxIZyNg3XvnaPZz58fBLxPuFT9/6jQvb/osIRN39kw3ikAo8wPaYFH8QFFSRudHaf4Ujfm8AAACdSURBVAjXJcyxSgIBGADg/6uhQgjfIXDSwQgOqjNDAsFJRKLF0dWxN2qICBH06CQisMBAcInewqlZHW7+4HMG/EGFql7EK7+2NRzV6Owis65rvzlxTuvAHM1PJRLN7aEPV/Ht1KVG0f0vKaduwSZiRVdLFJp513cTx2Aq5+E6vrQxk2GQ/OCOnAlDjLvSiAUvRjzT5yJixaMnuC/yPQUrJDDTZ2+sAAAAAElFTkSuQmCC&logoColor=E43921)](https://dinhanhthi.com/airflow-k8s-101)
-    [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)](https://dinhanhthi.com/tags/docker/)
-    [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)](https://dinhanhthi.com/notes)
-    [![Google APIs](http://img.shields.io/badge/-Google%20APIs-eee?style=flat-square&logo=google&logoColor=4285F4)](https://dinhanhthi.com/google-dialogflow-api/)
-    [![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql&logoColor=E10098)](https://dinhanhthi.com/notes)
-    [![gRPC](http://img.shields.io/badge/-gRPC-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA6lBMVEUAAAAtprAtprAtprAtprAtprAtprAtprAtprAtprAsprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprAtprD////FjnxvAAAATHRSTlMAAA6A3eemKAIDAf338bkTX2Ub3O5YN8dO4isq78sM8mEf2OAhyQ0YL83aIjsQDwbO/tfbxsHT0VUFi9QwahI88JBpLIeKaBxXNk8nLo9GMQAAAJxJREFUeNpFzwO6w0AUQOE4D7XN2K7tdva/nt74fPzHg2F4GEFSNMPiOOjnF/8j/wtFVCqHrFTxWr3RbLVRB8hS3V5/MBzh5HgCnM7mXH/AC7gohYsJWVG1Iq/rumECDct2XORJfrBYAlfrTQDc+g20A+LmXj8ceV04oTMw7BIedQ0ZBoSLbuie8EE1nq+2/U6YPzIs/EKdZj44/gVTWBMHg1d2DQAAAABJRU5ErkJggg==&logoColor=4479A1)](https://dinhanhthi.com/notes)
-    [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)](https://dinhanhthi.com/notes)
-    [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://dinhanhthi.com/notes)
-    [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://dinhanhthi.com/notes)
-    [![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)](https://dinhanhthi.com/notes/#web-dev)
-    [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://dinhanhthi.com/nodejs-npm)
-    [![Vertex AI](http://img.shields.io/badge/-Vertex%20AI-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAB4FBMVEWuzPqvzPpBh/RCh/SUu/lTkvWuy/pDiPSty/oMZfGox/qwzPppoPZlnfagwvlmnvZknfYAAACoyPoAAM9lnvZnnvZknPZon/ZNjvVfmfauzPqvzPqvzPpBh/RBhvRBh/SvzPqvzPqvzPqvzPqvzPpBh/RBh/RCh/RBh/RCh/SuzPqvzPqvzPqvzPqvzPpBh/RBh/RBhvRAhvRBh/Suy/qvzPquzPquzPqxzfpim/ZnnvZAhvRBh/RAhvRAhvRBh/Suy/qvzPquzPqvzPqyzvpinPZnn/ZAhvRAhvRBh/Suy/qvzPquzPqvzPqxzvpinPZnnvZAhvRAhvRBh/RBhvSuy/quzPquzPqvzPqwzfpfmvZnnvZAhvRBh/RCh/RBh/RBhvSuy/qvzPqvzPquzPq0z/pknfZmnvZBh/RBh/RBh/RAhvRKjPWvzPqvzPqsyvqyzvpknfZnnvZBh/RAhvRHivRnn/ZlnfavzPqvzPqvzPquzPq50vtknfZmnvYxfPNMjvVlnvZmnvZmnvZknfauzPqvzPqvzPpon/ZnnvZmnvZmnvZmnvZmnvauy/qvzPquzPqBr/hOj/VlnfZmnvZlnvaUu/lXlfVEifRYlfV4qfcEYPFAhvRBh/Q7g/T///9yZuyrAAAAn3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHNRmKFA3HUhMRChwSYw0Gey9qUDKBKrUeBXQrTjkvQiRfLcciA1whVz4+VU/CHQaAMHZWSGQ7liGIBGUmo3kxRyVlF2oOCV0iUzpvlydmFmQThWkFS2qRMYAGThZR0J06EDNICTOD120GKq/ESGEqsMQ/Dn7WgG/PmhtWraF2BQZ1hhO7dWI4AAAAgklEQVQIHQXBMWoCURQAwDe7z2X5a6HYaWfO4AGEVDlMDrBNCmvP4Sk8ipVaSggiCCI/M2LJNYK64pI61k6xhshaoFWgZldgA0TGFMD9JqMAGM6RMQCwPWQzBUDj64PaAH8z5RsA9O3I8RP80Hf3PWD0NvdbFzsYeWXU2SMnGCOf8Q8xbBqBnhLKOwAAAABJRU5ErkJggg==&logoColor=FF9800)](https://dinhanhthi.com/google-vertex-ai/)
-- OS & IDE & Tools : <br />
-    [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
-    [![GitKraken](http://img.shields.io/badge/-GitKraken-eee?style=flat-square&logo=gitkraken&logoColor=179287)](https://dinhanhthi.com/gitkraken/)
-    [![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)](https://dinhanhthi.com/tags/)
-    [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)](https://dinhanhthi.com/tags/linux/)
-    [![Postman](http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)](https://dinhanhthi.com)
-    [![Sphinx doc](http://img.shields.io/badge/-Sphinx-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAABI1BMVEUAAAAIR2wIRmsJR2wHR2sJSGwJR20JRm0IR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIRmwIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2z///+XvfDmAAAAYHRSTlMAAAAAAAAAAAYfPksyExhAcqjExse9k1lEIQOHzMXBu8vWw8lmit3OgkKw/n5s4s9RAU+htpW3dpfkaRsqVy5HfJim59gkswd3UNs7ozoVAZZdsQsOi52nXghjCjg9EgKZIX1LAAAAlUlEQVQI11WOvQ7BYABF7/laIWqQRproZrHb2P0MVpPByxk6iL4Fu82moxCRRlQa4jPUT9zl5uQsB/0NiR9ZjJXKAGRPCVMDwBoACIvjUnXJK4Tem8k8oANJK60D7Jvg9D72urmJAUl60JBjwG4rxgBnf911IBYTWLUDWPj9SIIppwZzzZajWJYi0X2U7pL9BjuSm0sv/jwjvB/O1IMAAAAASUVORK5CYII=)](/sphinx-restructuredtext)
-    [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
-- APIs : <br />
-    [![Chrome Extension API](https://img.shields.io/badge/-Chrome%20Extension%20API-eee?style=flat-square&logo=google-chrome&logoColor=4285F4)](https://dinhanhthi.com/notes/#api-&-services)
-    [![Dialogflow](http://img.shields.io/badge/-Dialogflow-eee?style=flat-square&logo=dialogflow&logoColor=FF9800)](https://dinhanhthi.com/google-dialogflow-api/)
-    [![Hugging Face API](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-eee?style=flat-square&logo=🤗&logoColor=FFD21E)](https://dinhanhthi.com/notes/#api-&-services)
-    [![Foursquare](http://img.shields.io/badge/-Foursquare-eee?style=flat-square&logo=foursquare-city-guide&logoColor=F94877)](https://dinhanhthi.com/notes)
-    [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://dinhanhthi.com/tags/google/)
-    [![LinkedIn API](https://img.shields.io/badge/-LinkedIn%20API-eee?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://dinhanhthi.com/notes/#api-&-services)
-    [![Notion API](https://img.shields.io/badge/-Notion%20API-eee?style=flat-square&logo=notion&logoColor=000000)](https://dinhanhthi.com/notes/#api-&-services)
-    [![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-eee?style=flat-square&logo=openai&logoColor=412991)](https://dinhanhthi.com/notes/#api-&-services)
-
-More about me and my notes 👉 [dinhanhthi.com](https://dinhanhthi.com).
+### My skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![Kotlin](https://img.shields.io/badge/-kotlin-7478AE?style=flat&logoColor=white&logo=kotlin) ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) ![Flutter](https://img.shields.io/badge/-flutter-45D1FD?style=flat&logoColor=white&logo=flutter) ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker)  <br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![Flask](https://img.shields.io/badge/-flask-000000?style=flat&logoColor=white&logo=flask)
+ 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" /></td>
+    </tr>   
+  </table>
+</center>
