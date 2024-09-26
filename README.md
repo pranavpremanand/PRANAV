@@ -10,9 +10,9 @@
 
 ## 💻 Skills:
 ### 💻 Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg&logo=css3&logoColor=white) 
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg&logo=react&logoColor=%2361DAFB) -->
